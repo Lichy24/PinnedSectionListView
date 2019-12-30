@@ -1,2 +1,2 @@
 # PinnedSectionListView
-this used for universtiy project
+this used for university project
